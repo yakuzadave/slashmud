@@ -1,2 +1,18 @@
-# slashmud
-Porting my DiscoMUSH project to Slack, leveraging the Modal system for functionality.
+# SlashMUD
+
+## Overview
+
+
+## Installing
+
+### Requirements
+
+```
+$ npm install
+```
+
+## Run Server
+
+```
+$ npm start
+```
